@@ -99,7 +99,6 @@ public class ShortRibsView extends FrameView {
         for (int i = 0; i < FileList.length; i++ )
         {
             StringTokenizer FileNameTokenizer = new StringTokenizer(FileList[i].getName(), ".");
-            
             FunctionArrayList.add(FileNameTokenizer.nextToken());
             FibArrayList.add(FileNameTokenizer.nextToken());     
         }
