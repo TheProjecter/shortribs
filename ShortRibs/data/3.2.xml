@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<fibonacciNumber>
+    <number>2</number>
+    <function>3</function>
+    <prime>true</prime>
+</fibonacciNumber>

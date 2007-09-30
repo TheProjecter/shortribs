@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<fibonacciNumber>
+    <number>75025</number>
+    <function>25</function>
+    <prime>false</prime>
+<factor>5</factor><factor>25</factor><factor>3001</factor><factor>15005</factor></fibonacciNumber>
