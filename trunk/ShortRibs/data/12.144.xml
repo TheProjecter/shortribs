@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<fibonacciNumber>
+    <number>144</number>
+    <function>12</function>
+    <prime>false</prime>
+<factor>2</factor><factor>3</factor><factor>4</factor><factor>6</factor><factor>8</factor><factor>9</factor><factor>12</factor><factor>16</factor><factor>18</factor><factor>24</factor><factor>36</factor><factor>48</factor><factor>72</factor></fibonacciNumber>
