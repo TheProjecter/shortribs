@@ -85,6 +85,8 @@ public class ShortRibsView extends FrameView {
         });
         
         //Read XML Files
+        try
+        {
         File DataFolder = new File(System.getProperty("user.dir") + "\\data");
         File[] FileList = DataFolder.listFiles();
         ArrayList FunctionArrayList = new ArrayList();
@@ -158,7 +160,13 @@ public class ShortRibsView extends FrameView {
         FileOutputString = FileOutputString.concat("\n");
     }
         OutputTextArea.setText(FileOutputString);
-}
+        }
+        catch (Exception e)
+        {
+            System.out.println(e.toString());
+        }
+        }
+
     
     
    
